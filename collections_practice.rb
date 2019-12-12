@@ -19,28 +19,26 @@ def swap_elements(array)
 end
 
 
-def 
+def reverse_array(array)
   
 end
 
 
-def
+def kesha_maker(array)
   
 end
 
 
-def
+def find_a(array)
   
 end
 
 
-def
+def sum_array(array)
   
 end
 
 
-def
+def add_s(array)
   
 end
-
-
