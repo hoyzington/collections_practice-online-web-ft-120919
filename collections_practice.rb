@@ -45,5 +45,6 @@ end
 
 
 def add_s(array)
+  array[0] += "s"
   
 end
